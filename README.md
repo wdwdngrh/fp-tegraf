@@ -12,10 +12,10 @@ Input: koordinat-xy di papan catur dengan masing-masing harus di dalam range 0-7
 
 Output: urutan langkah bidak kuda dalam papan catur
 
-Cara Penggunaan:
-Step 1: Run kode
-Step 2: Masukkan Posisi Awal X (0-7). (misal: 3)
-Step 3: Masukkan Posisi Awal Y (0-7): (misal: 5)
+Cara Penggunaan: \
+Step 1: Run kode \
+Step 2: Masukkan Posisi Awal X (0-7). (misal: 3) \
+Step 3: Masukkan Posisi Awal Y (0-7): (misal: 5) \
 Step 4: Lihat hasilnya
 
 # Penjelasan Praktikum 2
